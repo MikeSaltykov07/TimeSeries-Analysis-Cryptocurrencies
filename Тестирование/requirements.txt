@@ -1,0 +1,8 @@
+Package        Version
+-------------- -------
+ipykernel      6.13.1
+pip            22.1.2
+pyarrow        8.0.0
+seaborn        0.11.2
+sklearn        0.0
+tensorflow-gpu 2.9.1
